@@ -1,0 +1,26 @@
+# Java Compiled Files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE 설정 관련
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Build System Files (Gradle & Maven)
+target/
+*.log
+*.tmp
+*.bak
+*.swp
+.gradle/
+*.bat
+*.sh
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
